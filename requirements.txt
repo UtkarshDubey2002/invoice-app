@@ -3,4 +3,4 @@ openai
 pytesseract
 pillow
 pdf2image
-opencv-python
+opencv-python==4.5.3.56
